@@ -215,7 +215,7 @@ Algumas páginas atrasam a conexão. Tente:
 
 ## Licença
 
-Escolha a que preferir (ex.: MIT). Exemplo:
+
 
 ```
 MIT License
@@ -399,7 +399,7 @@ README.md     # this file
 
 ## License
 
-Choose your license (e.g., MIT). Example MIT boilerplate can be added here.
+MIT
 
 ---
 
